@@ -1,8 +1,9 @@
-#APP
+# app
 -INVOICE APP
-#AUTOR 
+# Autor
 -ING ELVER H .VASQUEZ
-#DESCRIPTION 
+# Description
+
  
 Angular based system 4 which manages the invoices, products and customers of a small business
 # Dependencies
